@@ -1,0 +1,26 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:forestgreen;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: black;
+	font-weight: bold;
+	font-size: 64px;
+	font-family: 'IM Fell English SC';
+}
+#hd3:hover{
+	color: darkblue;
+	cursor: pointer;
+}
+
